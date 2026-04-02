@@ -36,6 +36,6 @@ For more information, you can contact us:
 <table>
 <tr>
 <td class='sponsor-cell'><a href='https://www.unitn.it/en'><img alt="UNITN" style='max-width: 80%;'  src="images/sponsor_logos/logo_unitn.jpg" title="UNITN"></a></td>
-<td class='sponsor-cell'><a href='https://www.uibk.ac.at'><img alt="UIBK" style='max-width: 100%;'  src="images/sponsor_logos/logo_uibk.svg" title="UIBK"></a></td>
+<!-- <td class='sponsor-cell'><a href='https://www.uibk.ac.at'><img alt="UIBK" style='max-width: 100%;'  src="images/sponsor_logos/logo_uibk.svg" title="UIBK"></a></td> -->
 </tr>
 </table>
