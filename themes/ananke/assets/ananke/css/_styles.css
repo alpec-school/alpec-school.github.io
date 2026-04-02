@@ -1,0 +1,42 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}
+
+.lh-copy blockquote {
+  display: block;
+  font-size: .875em;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+
+}
+
+.nested-links a{
+  overflow-wrap: break-word;
+}
+
+.map {
+  border: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+details > summary {
+  list-style-type: '+ ';
+}
+
+details[open] > summary {
+  list-style-type: '- ';
+}
+
+.sponsor-cell {
+  padding-right: 30px;
+  width: 30%;
+}

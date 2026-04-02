@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALP-PEC on ALPEC</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in ALP-PEC on ALPEC</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accommodation</title>
+      <link>http://localhost:1313/accomodation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/accomodation/</guid>
+      <description>Some accommodation options:&#xA;Agritur Ponte Alto Ostello Giovane Europa Hotel Buonconsiglio Hotel America Hi Hotels </description>
+    </item>
+    <item>
+      <title>Location &amp; Travel</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>The school will be held at the Department of Mathematics (Polo Ferrari - Povo 1), University of Trento. The exact address is: Polo Ferrari - Povo 1, Via Sommarive, 5, 38123 Trento.&#xA;HOW TO REACH TRENTO By plane. The following airports are the closest to Trento:&#xA;Verona Catullo Airport: A shuttle service is available at Verona Valerio Catullo Airport to transfer passengers to Verona railway station, every day. Bergamo Orio al Serio: A bus is available from Bergamo Orio al Serio Airport to Trento city (see here).</description>
+    </item>
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/program/</guid>
+      <description>This is a tentative outline of the program. Further details will come soon.&#xA;SPEAKERS Alessio Camimnata (University of Genoa - Italy): TBA Chiara Marcolla (TII - Abu Dhabi UAE): TBA Arnab Roy (University of Insbruck - Austria): TBA Leo Perrin (Inria - France): TBA Morten Øygarden (University of Bergen - Norway): TBA PROGRAM Tentative program&#xA;Tuesday, 01.09&#xA;14:00 - 17:00 lectures Wednesday, 02.09&#xA;9:00 - 12:30 lectures 12:30 - 14:00 lunch break 14:00 - 17:00 lectures Thursday, 03.</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/registration/</guid>
+      <description>REGISTRATION IS OPEN!&#xA;Student Accommodation Grant: Master and Ph.D. students may be eligible for a grant covering the accommodation. Interested students are invited to fill the registration form and uploading their CV in the process. After the notification, the applicants will confirm their registration and pay the registration fee. IMPORTANT DATES Student Accommodation Grant Deadline: 15 May 2026 Notification to Grant Applicants: 24 May 2026 Registration Deadline: 30 June 2026 REGISTRATION Registration fee: 50€</description>
+    </item>
+  </channel>
+</rss>
