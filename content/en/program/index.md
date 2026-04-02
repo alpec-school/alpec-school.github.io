@@ -1,6 +1,6 @@
 ---
 title: "Program"
-featured_image: "/images/trento2.jpg"
+featured_image: "/images/backgrounds/img_ALE1907.jpg"
 position_vertical: 35%
 menu:
   main:

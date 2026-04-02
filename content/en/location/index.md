@@ -2,7 +2,7 @@
 title: "Location & Travel"
 show_map: true
 map_link: "https://www.google.com/maps/place/Polo+Ferrari+-+Povo+1/@46.0668494,11.1475743,17z/data=!3m2!4b1!5s0x4782769516bb5065:0x2e4af716fe1de64a!4m6!3m5!1s0x4782769536c0ca39:0x8c197e4dfc110643!8m2!3d46.0668494!4d11.1501492!16s%2Fg%2F11cjkvdkcw?entry=ttu&g_ep=EgoyMDI2MDMyMi4wIKXMDSoASAFQAw%3D%3D"
-featured_image: "/images/trento3.jpg"
+featured_image: "/images/backgrounds/img_ALE5140.jpg"
 position_vertical: 60%
 menu:
   main:

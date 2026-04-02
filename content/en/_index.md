@@ -1,10 +1,10 @@
 ---
 title: "ALP-PEC"
 description: "Topics in Privacy Enabling Cryptography - Summer School"
-featured_image: "/images/trento1.jpg"
+featured_image: "/images/backgrounds/img_GIO7420.jpg"
 ---
 
-The summer school ALP-PEC will be held in September 1-3, 2026. The goal of this  short school is to provide an in-depth yet accessible overview of the emerging field of Arithmetization-Oriented (AO) cryptographic primitives and their fundamental role in Privacy-Preserving Cryptographic (PPC) protocols, including Multi-Party Computation (MPC), Zero-Knowledge Proofs (ZKP), and Fully Homomorphic Encryption (FHE).
+The summer school ALP-PEC will be held in September 1-3, 2026. The goal of this short school is to provide an in-depth yet accessible overview of the emerging field of Arithmetization-Oriented (AO) cryptographic primitives and their fundamental role in Privacy-Preserving Cryptographic (PPC) protocols, including Multi-Party Computation (MPC), Zero-Knowledge Proofs (ZKP), and Fully Homomorphic Encryption (FHE).
 There will be invited lecturers, giving tutorial classes and presenting recent results.
 
 

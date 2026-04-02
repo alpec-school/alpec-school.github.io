@@ -1,6 +1,6 @@
 ---
 title: "Accommodation"
-featured_image: "/images/trento4.jpg"
+featured_image: "/images/backgrounds/buoncons-02.jpg"
 position_vertical: 60%
 menu:
   main:
