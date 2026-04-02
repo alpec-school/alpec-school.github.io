@@ -19,6 +19,8 @@ This is a tentative outline of the program. Further details will come soon.
 *TBA*
 - <span style="color:blue">Morten Øygarden (University of Bergen - Norway)</span>: 
 *TBA*
+- <span style="color:blue">Markulf Kohlweiss (University of Edinburgh - Scotland)</span>: 
+*TBA*
 
 ### PROGRAM
 
