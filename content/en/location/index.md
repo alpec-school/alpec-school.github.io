@@ -21,12 +21,14 @@ The following airports are the closest to Trento:
 * [Venezia Marco Polo](https://www.veneziaairport.it/en_gb/): A bus is available from Venice Marco Polo Airport to Trento city (see [here](https://www.flixbus.it/)).  A shuttle service is available at Venice Marco Polo Airport to transfer passengers to Venezia-Santa Lucia and Mestre-Venezia railways stations. 
 * [Bologna](https://www.bologna-airport.it/en/welcome-to-bologna-airport/?idC=62175): A shuttle service is available at Bologna Airport to transfer passengers to Bologna railway station, every day.
 * [Milano Linate](https://www.milanolinate-airport.com/en): A bus is available from Milano Linate Airport to Trento city (see [here](https://www.flixbus.it/)). Linate Airport is connected to the center of Milan by the metro (line M4), bus and train.
-* [Milano Malpensa]: A bus is available from Milano Malpensa Airport to Trento city (see [here](https://www.flixbus.it/)). Malpensa Airport is connected to the center of Milan by bus and train.
+* [Milano Malpensa](https://www.milanomalpensa-airport.com/en): A bus is available from Milano Malpensa Airport to Trento city (see [here](https://www.flixbus.it/)). Malpensa Airport is connected to the center of Milan by bus and train.
+
 
 By train.
 Two train lines reach Trento:
 * the Brennero line (connecting Rome to the south, and Innsbruck and northern Europe to the north),
 * the Valsugana line to Venice.
+
 Timetables details on the website of [Trenitalia](https://www.trenitalia.com/en.html), [Italo](https://www.italotreno.com/en), and [Obb](https://www.oebb.at/en/).
 A local line connects Trento with Valle di Non (Ferrovia Trento-Malé, for more information see [Trentino Trasporti](https://www.trentinotrasporti.it/en/travel-with-us/city/trento)).
 

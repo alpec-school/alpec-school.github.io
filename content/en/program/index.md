@@ -11,7 +11,7 @@ This is a tentative outline of the program. Further details will come soon.
 
 
 ### SPEAKERS
-- <span style="color:blue">Alessio Camimnata (University of Genoa - Italy)</span>: 
+- <span style="color:blue">Alessio Caminata (University of Genoa - Italy)</span>: 
 *TBA*
 - <span style="color:blue">Chiara Marcolla (TII - Abu Dhabi UAE)</span>: 
 *TBA*

@@ -1,6 +1,6 @@
 ---
 title: "ALPEC"
-description: "Topics in Privacy Enabling Cryptography - Summer School"
+description: "Algebraic computation and Privacy Enhancing Cryptography - Summer School"
 featured_image: "/images/backgrounds/_GIO7420.jpg"
 ---
 
@@ -19,6 +19,8 @@ ALPEC is organized by:
 For more information, you can contact us:
 * irene.villa(at)unitn.it
 * marco.calderini(at)unitn.it
+* arnab.roy(at)uibk.ac.at
+* luca.campa(at)uibk.ac.at
 
 ### OUR SPONSORS
 
