@@ -1,7 +1,7 @@
 ---
 title: "Location & Travel"
 show_map: true
-map_link: "https://www.google.com/maps/place/Polo+Ferrari+-+Povo+1/@46.0668494,11.1475743,17z/data=!3m2!4b1!5s0x4782769516bb5065:0x2e4af716fe1de64a!4m6!3m5!1s0x4782769536c0ca39:0x8c197e4dfc110643!8m2!3d46.0668494!4d11.1501492!16s%2Fg%2F11cjkvdkcw?entry=ttu&g_ep=EgoyMDI2MDMyMi4wIKXMDSoASAFQAw%3D%3D"
+map_link: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2768.21021626134!2d11.150149200000001!3d46.066849399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4782769536c0ca39%3A0x8c197e4dfc110643!2sPolo%20Ferrari%20-%20Povo%201!5e0!3m2!1sit!2sit!4v1775550740191!5m2!1sit!2sit"
 featured_image: "/images/backgrounds/_ALE5140.jpg"
 position_vertical: 60%
 menu:
