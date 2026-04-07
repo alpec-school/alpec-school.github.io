@@ -1,6 +1,7 @@
 ---
 title: "ALPEC"
-description: "Algebraic computation and Privacy Enhancing Cryptography\nSummer School"
+description: "Algebraic computation and Privacy Enhancing Cryptography
+            Summer School"
 featured_image: "/images/backgrounds/_GIO7420.jpg"
 ---
 
