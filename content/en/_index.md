@@ -1,15 +1,15 @@
 ---
-title: "ALP-PEC"
+title: "ALPEC"
 description: "Topics in Privacy Enabling Cryptography - Summer School"
 featured_image: "/images/backgrounds/_GIO7420.jpg"
 ---
 
-The summer school ALP-PEC will be held in September 1-3, 2026. The goal of this short school is to provide an in-depth yet accessible overview of a number of topics in privacy enabling Cryptography, such as Arithmetization-Oriented (AO) primitives, Zero-Knowledge Proofs (ZKP), and Fully Homomorphic Encryption (FHE).
+The summer school ALPEC will be held in September 1-3, 2026. The goal of this short school is to provide an in-depth yet accessible overview of a number of topics in privacy enabling Cryptography, such as Arithmetization-Oriented (AO) primitives, Zero-Knowledge Proofs (ZKP), and Fully Homomorphic Encryption (FHE).
 There will be invited lecturers, giving tutorial classes and presenting recent results.
 
 
 
-ALP-PEC is organized by:
+ALPEC is organized by:
 
 * Arnab Roy (University of Innsbruck, Austria)
 * Luca Campa (University of Innsbruck, Austria)
