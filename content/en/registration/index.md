@@ -28,7 +28,7 @@ Registration fee: 50€
 * The fee includes the coffee breaks for the days of the school.
 
 
-The registration form is available here: [https://webapps.unitn.it/form/it/Web/Application/summerschool/TPEC_2026](https://webapps.unitn.it/form/it/Web/Application/summerschool/TPEC_2026)
+The registration form is available here: [https://webapps.unitn.it/form/en/Web/Application/summerschool/ALPEC_2026](https://webapps.unitn.it/form/en/Web/Application/summerschool/ALPEC_2026)
 
 After applying, you will receive the payment instructions by email.
 
