@@ -9,7 +9,7 @@ There will be invited lecturers, giving tutorial classes and presenting recent r
 
 The workshop is intended for researchers as well as Master’s and PhD students who are interested in or actively working in these areas or in topics related to them. ALPEC will feature talks (or selected parts thereof) covering both foundational and advanced topics.
  
- **Student Grant**: Limited number of student grants are available to support the accommodation. Please check the [registration page](/registration).   
+ **Student Grant**: A limited number of student grants are available to support the accommodation. Please check the [registration page](/registration).   
 
 ALPEC is organized by:
 
