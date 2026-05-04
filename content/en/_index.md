@@ -13,10 +13,10 @@ The workshop is intended for researchers as well as Master’s and PhD students 
 
 ALPEC is organized by:
 
-* Arnab Roy (University of Innsbruck, Austria)
-* Luca Campa (University of Innsbruck, Austria)
-* Marco Calderini (University of Trento, Italy)
-* Irene Villa (University of Trento, Italy)
+* [Arnab Roy](https://byt3bit.github.io/) (University of Innsbruck, Austria)
+* [Luca Campa](https://lucacampa.it/) (University of Innsbruck, Austria)
+* [Marco Calderini](https://scholar.google.com/citations?user=y2A12kkAAAAJ&hl=it) (University of Trento, Italy)
+* [Irene Villa](https://irene1villa.wixsite.com/nevilla) (University of Trento, Italy)
 
 For more information, you can contact us:
 * irene.villa(at)unitn.it

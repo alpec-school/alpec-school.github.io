@@ -11,16 +11,11 @@ This is a tentative outline of the program. Further details will come soon.
 
 
 ### SPEAKERS
-- <span style="color:blue">Alessio Caminata (University of Genoa - Italy)</span>: 
-*TBA*
-- <span style="color:blue">Chiara Marcolla (TII - Abu Dhabi UAE)</span>: 
-*TBA*
-- <span style="color:blue">Leo Perrin (Inria - France)</span>: 
-*TBA*
-- <span style="color:blue">Morten Øygarden (University of Bergen - Norway)</span>: 
-*TBA*
-- <span style="color:blue">Markulf Kohlweiss (University of Edinburgh - Scotland)</span>: 
-*TBA*
+- <span style="color:blue">[Alessio Caminata](https://alessiocaminata.wixsite.com/alca) (University of Genoa - Italy)</span>
+- <span style="color:blue">[Chiara Marcolla](https://scholar.google.com/citations?user=QuN8bAwAAAAJ&hl=it) (TII - Abu Dhabi UAE)</span>
+- <span style="color:blue">[Leo Perrin](https://who.paris.inria.fr/Leo.Perrin/) (Inria - France)</span>
+- <span style="color:blue">[Morten Øygarden](https://www.simula.no/people/morten.oygarden) (University of Bergen - Norway)</span>
+- <span style="color:blue">[Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei/) (University of Edinburgh - Scotland)</span>
 
 ### PROGRAM
 
