@@ -7,7 +7,9 @@ featured_image: "/images/backgrounds/_GIO7420.jpg"
 The summer school *ALPEC* will be held in September 1-3, 2026. The goal of this short school is to provide an in-depth yet accessible overview of a number of topics in privacy enabling Cryptography, such as Arithmetization-Oriented (AO) primitives, Zero-Knowledge Proofs (ZKP), and Fully Homomorphic Encryption (FHE). **Students** and **experienced researchers** are welcome to participate, as there will be introductory lectures followed by advanced talks and research sessions about open problems and recent results.
 <!-- There will be invited lecturers, giving tutorial classes and presenting recent results. -->
 
-
+The workshop is intended for researchers as well as Master’s and PhD students who are interested in or actively working in these areas or in topics related to them. ALPEC will feature talks (or selected parts thereof) covering both foundational and advanced topics.
+ 
+ **Student Grant**: A limited number of student grants are available to support the accommodation. Please check the [registration page](/registration).   
 
 ALPEC is organized by:
 
