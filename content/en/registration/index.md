@@ -18,7 +18,7 @@ After the notification, the applicants will confirm their registration and pay t
 
 ### IMPORTANT DATES
 
-* Student Accommodation Grant Deadline: 15 May 2026
+* Student Accommodation Grant Deadline: <s>15 May 2026</s> **Extended to 22 May 2026**
 * Notification to Grant Applicants: 24 May 2026
 * Registration Deadline: 30 June 2026
 

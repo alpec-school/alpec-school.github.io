@@ -9,7 +9,7 @@ The summer school *ALPEC* will be held in September 1-3, 2026. The goal of this 
 
 The workshop is intended for researchers as well as Master’s and PhD students who are interested in or actively working in these areas or in topics related to them. ALPEC will feature talks (or selected parts thereof) covering both foundational and advanced topics.
  
- **Student Grant**: A limited number of student grants are available to support the accommodation. Please check the [registration page](/registration).   
+ **Student Grant**: A limited number of student grants are available to support the accommodation. Please check the [registration page](/registration) and send your application by May, 22nd. If you send it after that date, we can only support you based on the availability.
 
 ALPEC is organized by:
 
