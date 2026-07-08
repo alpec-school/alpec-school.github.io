@@ -11,6 +11,8 @@ The workshop is intended for researchers as well as Master’s and PhD students 
  
  **Student Grant**: A limited number of student grants are available to support the accommodation. Please check the [registration page](/registration) and send your application by May, 22nd. If you send it after that date, we can only support you based on the availability.
 
+<span><b>Registrations are closed.</b></span>
+
 ALPEC is organized by:
 
 * [Arnab Roy](https://byt3bit.github.io/) (University of Innsbruck, Austria)
