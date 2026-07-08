@@ -52,13 +52,13 @@ Tuesday, 01.09
 
 ##### 14:00 - 14:30 Registration
 ##### 14:30 - 14:45 Opening Remarks
-##### 14:45 - 15:45 *Solving polynomial systems with Gröbner bases* (Alessio Caminata) 
-<details class="abstract"><summary></summary><div class="abstract-text">Many problems arising in cryptography can be modeled by systems of multivariate polynomial equations over a finite field. It is therefore important to understand how to solve such systems efficiently. Gröbner bases provide a fundamental tool for this purpose.
+##### 14:45 - 15:45 *Solving polynomial systems with Gröbner bases* (Alessio Caminata) <details class="abstract"><summary></summary>
+<div class="abstract-text">Many problems arising in cryptography can be modeled by systems of multivariate polynomial equations over a finite field. It is therefore important to understand how to solve such systems efficiently. Gröbner bases provide a fundamental tool for this purpose.
 In the first part of these lectures, we review and explain the connection between polynomial system solving and Gröbner bases, introducing important notions such as the Macaulay matrix. In the second part, we introduce the notions of solving degree, last fall degree, and degree of regularity, which are commonly used to study the complexity of polynomial systems arising in cryptography.</div></details>
 
 ##### 15:45 - 16:00 Short break
-##### 16:00 - 17:00 *How Fully Homomorphic Encryption became (somehow) practical* (Chiara Marcolla)
-<details class="abstract"><summary></summary><div class="abstract-text">This talk provides an overview of the evolution of Fully Homomorphic Encryption (FHE), starting from the begging and following the major ideas that transformed FHE from a theoretical breakthrough into a practical technology. We discuss the key innovations introduced over the years, including bootstrapping, modulus switching, key switching, and packing techniques, highlighting the challenges each was designed to address. The lecture concludes with a comparison of the main FHE families used today, discussing their strengths, limitations, and typical application scenarios.
+##### 16:00 - 17:00 *How Fully Homomorphic Encryption became (somehow) practical* (Chiara Marcolla) <details class="abstract"><summary></summary>
+<div class="abstract-text">This talk provides an overview of the evolution of Fully Homomorphic Encryption (FHE), starting from the begging and following the major ideas that transformed FHE from a theoretical breakthrough into a practical technology. We discuss the key innovations introduced over the years, including bootstrapping, modulus switching, key switching, and packing techniques, highlighting the challenges each was designed to address. The lecture concludes with a comparison of the main FHE families used today, discussing their strengths, limitations, and typical application scenarios.
 </div></details>
 
 ##### 17:00 - 18:00 Welcome Aperitif
