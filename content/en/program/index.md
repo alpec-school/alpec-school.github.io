@@ -11,7 +11,7 @@ This is a tentative outline of the program. Further details will come soon.
 
 
 ### SPEAKERS
-- <span style="color:blue">[Alessio Caminata](https://alessiocaminata.wixsite.com/alca) (University of Genoa - Italy)</span> *Solving polynomial systems with Gröbner bases* 
+- <span style="color:blue">[Alessio Caminata](https://alessiocaminata.wixsite.com/alca) (University of Genoa - Italy)</span> 
 - <span style="color:blue">[Chiara Marcolla](https://scholar.google.com/citations?user=QuN8bAwAAAAJ&hl=it) (TII - Abu Dhabi UAE)</span>
 - <span style="color:blue">[Leo Perrin](https://who.paris.inria.fr/Leo.Perrin/) (Inria - France)</span>
 - <span style="color:blue">[Morten Øygarden](https://www.simula.no/people/morten.oygarden) (University of Bergen - Norway)</span>
