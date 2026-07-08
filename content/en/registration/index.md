@@ -9,7 +9,7 @@ menu:
   main:
     weight: 4
 ---
-<span><b>REGISTRATIONS ARE CLOSED.</b></span>
+<span style="color:red"><b>REGISTRATIONS ARE CLOSED.</b></span>
 
 <span style="color:blue"><b>Student Accommodation Grant</b></span>: <i>Master and Ph.D. students may be eligible for a grant covering the accommodation. 
 Interested students are invited to fill the registration form and uploading their CV in the process.
