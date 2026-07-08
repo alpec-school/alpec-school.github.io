@@ -29,19 +29,19 @@ details.abstract > summary {
   color: #0066cc;
   text-decoration: underline;
   padding: 0;
-  margin-top: 2px;
+  margin-top: 1px;
 }
 details.abstract > summary::-webkit-details-marker { display: none; }
 details.abstract > summary::marker { content: ""; }
 details.abstract > summary::before { content: "Show abstract"; }
 details.abstract[open] > summary::before { content: "Hide abstract"; }
 details.abstract .abstract-text {
-  margin-top: 6px;
-  margin-bottom: 4px;
+  margin-top: 3px;
+  margin-bottom: 3px;
   font-size: 0.9em;
   font-style: italic;
   color: #444;
-  padding-left: 12px;
+  /* padding-left: 12px; */
   border-left: 3px solid #ccc;
 }
 </style>
@@ -52,7 +52,7 @@ Tuesday, 01.09
 
 ##### 14:00 - 14:30 Registration
 ##### 14:30 - 14:45 Opening Remarks
-##### 14:45 - 15:45 *Solving polynomial systems with Gröbner bases* (Alessio Caminata)
+##### 14:45 - 15:45 *Solving polynomial systems with Gröbner bases* (Alessio Caminata) 
 <details class="abstract"><summary></summary><div class="abstract-text">Many problems arising in cryptography can be modeled by systems of multivariate polynomial equations over a finite field. It is therefore important to understand how to solve such systems efficiently. Gröbner bases provide a fundamental tool for this purpose.
 In the first part of these lectures, we review and explain the connection between polynomial system solving and Gröbner bases, introducing important notions such as the Macaulay matrix. In the second part, we introduce the notions of solving degree, last fall degree, and degree of regularity, which are commonly used to study the complexity of polynomial systems arising in cryptography.</div></details>
 
