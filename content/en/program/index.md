@@ -179,7 +179,7 @@ This is a tentative outline of the program. Further details will come soon.
       <div class="speaker-card-name"><a href="https://who.paris.inria.fr/Leo.Perrin/">Leo Perrin</a></div>
       <div class="speaker-card-affil">Inria — France</div>
       <ul class="speaker-card-talks">
-        <li><span class="talk-title">(Title TBA)</span></li>
+        <li><span class="talk-title">The Cambrian Explosion of Symmetric Techniques for Advanced Protocols</span></li>
       </ul>
     </div>
   </div>
