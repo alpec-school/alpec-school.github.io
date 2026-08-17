@@ -355,7 +355,7 @@ In the first part of these lectures, we review and explain the connection betwee
     <div class="day-header">Wednesday, 02.09</div>
     <div class="schedule-row">
       <span class="schedule-time">9:00 – 10:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Leo Perrin</span>
       <!-- <div class="schedule-event">
         <span class="talk-title">Solving polynomial systems with Gröbner bases</span>
         <span class="talk-speaker">(Alessio Caminata)</span>
@@ -367,7 +367,7 @@ In the first part of these lectures, we review and explain the connection betwee
     </div>
     <div class="schedule-row">
       <span class="schedule-time">10:00 – 11:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Leo Perrin</span>
       <!-- <div class="schedule-event">
         <span class="talk-title">Noise Growth and Parameter Selection in Fully Homomorphic Encryption</span>
         <span class="talk-speaker">(Chiara Marcolla)</span>
@@ -382,7 +382,7 @@ In the first part of these lectures, we review and explain the connection betwee
     </div>
     <div class="schedule-row">
       <span class="schedule-time">11:30 – 12:30</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Morten Øygarden</span>
     </div>
     <div class="schedule-row break">
       <span class="schedule-time">12:30 – 14:00</span>
@@ -390,19 +390,19 @@ In the first part of these lectures, we review and explain the connection betwee
     </div>
     <div class="schedule-row">
       <span class="schedule-time">14:00 – 15:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Morten Øygarden</span>
     </div>
     <div class="schedule-row">
       <span class="schedule-time">15:00 – 16:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Chiara Marcolla</span>
     </div>
     <div class="schedule-row break">
       <span class="schedule-time">16:00 – 16:30</span>
       <span class="schedule-event">Coffee Break</span>
     </div>
     <div class="schedule-row">
-      <span class="schedule-time">16:30 – 17:00</span>
-      <span class="schedule-event">(Discussion)</span>
+      <span class="schedule-time">16:30 – 17:30</span>
+      <span class="schedule-event">Discussion</span>
     </div>
   </div>
 
@@ -410,11 +410,11 @@ In the first part of these lectures, we review and explain the connection betwee
     <div class="day-header">Thursday, 03.09</div>
     <div class="schedule-row">
       <span class="schedule-time">9:00 – 10:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Chiara Marcolla</span>
     </div>
     <div class="schedule-row">
       <span class="schedule-time">10:00 – 11:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Markulf Kohlweiss</span>
     </div>
     <div class="schedule-row break">
       <span class="schedule-time">11:00 – 11:30</span>
@@ -422,7 +422,7 @@ In the first part of these lectures, we review and explain the connection betwee
     </div>
     <div class="schedule-row">
       <span class="schedule-time">11:30 – 12:30</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Markulf Kohlweiss</span>
     </div>
     <div class="schedule-row break">
       <span class="schedule-time">12:30 – 14:00</span>
@@ -430,11 +430,11 @@ In the first part of these lectures, we review and explain the connection betwee
     </div>
     <div class="schedule-row">
       <span class="schedule-time">14:00 – 15:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Student Presentations</span>
     </div>
     <div class="schedule-row">
       <span class="schedule-time">15:00 – 16:00</span>
-      <span class="schedule-event">(Discussion)</span>
+      <span class="schedule-event">Student Presentations</span>
     </div>
   </div>
 
