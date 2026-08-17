@@ -201,7 +201,7 @@ This is a tentative outline of the program. Further details will come soon.
       <div class="speaker-card-name"><a href="https://homepages.inf.ed.ac.uk/mkohlwei/">Markulf Kohlweiss</a></div>
       <div class="speaker-card-affil">University of Edinburgh — Scotland</div>
       <ul class="speaker-card-talks">
-        <li><span class="talk-title">(Title TBA)</span></li>
+        <li><span class="talk-title">UC What You See: Brave New World of Zero-Overhead Pseudo-code UC</span></li>
       </ul>
     </div>
   </div>
@@ -320,7 +320,7 @@ details.abstract .abstract-text {
     </div>
     <div class="schedule-row">
       <span class="schedule-time">14:45 – 15:45</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Alessio Caminata</span>
       <!-- <div class="schedule-event">
         <span class="talk-title">Solving polynomial systems with Gröbner bases</span>
         <span class="talk-speaker">(Alessio Caminata)</span>
@@ -336,7 +336,7 @@ In the first part of these lectures, we review and explain the connection betwee
     </div>
     <div class="schedule-row">
       <span class="schedule-time">16:00 – 17:00</span>
-      <span class="schedule-event">(Talk)</span>
+      <span class="schedule-event">Alessio Caminata</span>
       <!-- <div class="schedule-event">
         <span class="talk-title">How Fully Homomorphic Encryption became (somehow) practical</span>
         <span class="talk-speaker">(Chiara Marcolla)</span>
