@@ -6,8 +6,6 @@ menu:
   main:
     weight: 1
 ---
-This is a tentative outline of the program. Further details will come soon.
-
 
 
 ### SPEAKERS
@@ -304,7 +302,7 @@ details.abstract .abstract-text {
 }
 </style>
 
-<p>Tentative program</p>
+<p>Program</p>
 
 <div class="schedule">
 
