@@ -302,8 +302,6 @@ details.abstract .abstract-text {
 }
 </style>
 
-<p>Program</p>
-
 <div class="schedule">
 
   <div class="schedule-day">
