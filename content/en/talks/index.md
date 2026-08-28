@@ -123,7 +123,10 @@ menu:
     <div class="talk-entry-affil">Politecnico di Torino — Italy</div>
     <span class="talk-title">Canonical Lifting for Group-Action Protocols: Beyond Ring Signatures?</span>
     <details class="abstract"><summary></summary>
-      <div class="abstract-text">Canonical liftings were developed to compress group-action-based sigma protocols by replacing a full witness with a compact representative. Under some hypotheses, they seem to preserve the underlying hardness of group-action problems. This abstraction was used to produce a (linkable) ring signature, CE(Le)ReS. Can it be used to construct other primitives, such as blind signatures (e.g., Tanuki, LEAF)? Can they have other roles, as cryptographic primitives? What happens if we instantiate them on, e.g., the group actions underlying lattices and isogenies?</div>
+      <div class="abstract-text">Canonical liftings were introduced in a recent preprint as a means to compress group-action-based sigma protocols. They generalise existing techniques, such as the canonical forms used in LESS, and thus are inherently a compression argument; however, under some hypotheses, they preserve the hardness of the underlying group-action.
+
+We show how they can be used to produce a (linkable) ring signature, instantiated on linear code equivalence as CE(Le)ReS. Can they construct other primitives, such as blind signatures? What happens if we instantiate them on, e.g., the group actions underlying lattices and isogenies?
+</div>
       <div class="talk-ref">The idea started with our recent work<a href="https://eprint.iacr.org/2026/1348">eprint.iacr.org/2026/1348</a>.</div>
     </details>
   </div>
