@@ -141,15 +141,6 @@ We show how they can be used to produce a (linkable) ring signature, instantiate
   </div>
 
   <div class="talk-entry">
-    <div class="talk-entry-name">Abdelkarim Lkoaiza</div>
-    <div class="talk-entry-affil">Laboratory of Mathematical Analysis, Algebra and Applications (LAM2A), Faculty of Sciences Ain Chock (FSAC), University Hassan II of Casablanca — Morocco</div>
-    <span class="talk-title">An Extended Grendel Approach Applied to Blockchain Signature as an Alternative to Keccak Permutation</span>
-    <details class="abstract"><summary></summary>
-      <div class="abstract-text">This work introduces a sponge-based hash function using the Grendel permutation as an alternative to Keccak for blockchain signatures. It extends the Legendre symbol and Euler's criterion from prime fields to invertible elements of Z/pqZ and provides an implementation without predefined hashing libraries, together with a security analysis.</div>
-    </details>
-  </div>
-
-  <div class="talk-entry">
     <div class="talk-entry-name">Carmine Mirra</div>
     <div class="talk-entry-affil">Università degli Studi della Campania "Luigi Vanvitelli" — Italy</div>
     <span class="talk-title">A Functional Encryption scheme from a group-based version of the Learning With Errors problem</span>
