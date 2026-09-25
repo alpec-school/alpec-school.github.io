@@ -98,6 +98,39 @@ menu:
   color: #111;
 }
 
+.speaker-card-talks .talk-by {
+  color: #666;
+}
+
+.slides-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2em;
+  vertical-align: middle;
+  margin-left: 0.4em;
+  padding: 0.15em 0.3em;
+  border: 1px solid #e8c1bd;
+  border-radius: 4px;
+  background: #fff;
+  color: #c62828;
+  font-size: 0.85em;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.slides-btn:hover,
+.slides-btn:focus-visible {
+  background: #fdecea;
+  border-color: #c62828;
+}
+
+.slides-btn .fa {
+  font-size: 1.25em;
+}
+
 .speaker-card-talks details.abstract {
   display: block;
   margin-top: 0.2em;
@@ -140,7 +173,7 @@ menu:
       <div class="speaker-card-affil">University of Genoa — Italy</div>
       <ul class="speaker-card-talks">
         <li>
-          <span class="talk-title">Solving polynomial systems with Gröbner bases</span>
+          <span class="talk-title">Solving polynomial systems with Gröbner bases</span> <a class="slides-btn" href="/alpec26-pdf/Caminata.pdf" download title="Download slides (PDF)" aria-label="Download slides (PDF)"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
           <details class="abstract"><summary></summary>
             <div class="abstract-text">Many problems arising in cryptography can be modeled by systems of multivariate polynomial equations over a finite field. It is therefore important to understand how to solve such systems efficiently. Gröbner bases provide a fundamental tool for this purpose. In the first part of these lectures, we review and explain the connection between polynomial system solving and Gröbner bases, introducing important notions such as the Macaulay matrix. In the second part, we introduce the notions of solving degree, last fall degree, and degree of regularity, which are commonly used to study the complexity of polynomial systems arising in cryptography.</div>
           </details>
@@ -156,13 +189,13 @@ menu:
       <div class="speaker-card-affil">TII — Abu Dhabi, UAE</div>
       <ul class="speaker-card-talks">
         <li>
-          <span class="talk-title">How Fully Homomorphic Encryption became (somehow) practical</span>
+          <span class="talk-title">How Fully Homomorphic Encryption became (somehow) practical</span> <a class="slides-btn" href="/alpec26-pdf/Marcolla1.pdf" download title="Download slides (PDF)" aria-label="Download slides (PDF)"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
           <details class="abstract"><summary></summary>
             <div class="abstract-text">This talk provides an overview of the evolution of Fully Homomorphic Encryption (FHE), starting from the beginning and following the major ideas that transformed FHE from a theoretical breakthrough into a practical technology. We discuss the key innovations introduced over the years, including bootstrapping, modulus switching, key switching, and packing techniques, highlighting the challenges each was designed to address. The lecture concludes with a comparison of the main FHE families used today, discussing their strengths, limitations, and typical application scenarios.</div>
           </details>
         </li>
         <li>
-          <span class="talk-title">Noise Growth and Parameter Selection in Fully Homomorphic Encryption</span>
+          <span class="talk-title">Noise Growth and Parameter Selection in Fully Homomorphic Encryption</span> <a class="slides-btn" href="/alpec26-pdf/Marcolla2.pdf" download title="Download slides (PDF)" aria-label="Download slides (PDF)"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
           <details class="abstract"><summary></summary>
             <div class="abstract-text">Selecting cryptographic parameters is one of the central challenges in Fully Homomorphic Encryption. This lecture focuses on the relationship between parameters, security, correctness, and computational efficiency through the lens of noise analysis. We introduce the main sources of noise growth in homomorphic computations, explain how different operations affect the noise budget, and discuss how parameter choices determine the achievable computation depth. The lecture also illustrates the trade-offs involved in practical parameter selection and provides the intuition needed to analyze and optimize FHE circuits.</div>
           </details>
@@ -177,7 +210,7 @@ menu:
       <div class="speaker-card-name"><a href="https://who.paris.inria.fr/Leo.Perrin/">Leo Perrin</a></div>
       <div class="speaker-card-affil">Inria — France</div>
       <ul class="speaker-card-talks">
-        <li><span class="talk-title">The Cambrian Explosion of Symmetric Techniques for Advanced Protocols</span></li>
+        <li><span class="talk-title">The Cambrian Explosion of Symmetric Techniques for Advanced Protocols</span> <a class="slides-btn" href="/alpec26-pdf/Perrin.pdf" download title="Download slides (PDF)" aria-label="Download slides (PDF)"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></li>
       </ul>
     </div>
   </div>
@@ -188,7 +221,7 @@ menu:
       <div class="speaker-card-name"><a href="https://www.simula.no/people/morten.oygarden">Morten Øygarden</a></div>
       <div class="speaker-card-affil">University of Bergen / Simula Lab — Norway</div>
       <ul class="speaker-card-talks">
-        <li><span class="talk-title">Algebraic Attacks on Arithmetization-Oriented Primitives</span></li>
+        <li><span class="talk-title">Algebraic Attacks on Arithmetization-Oriented Primitives</span> <a class="slides-btn" href="/alpec26-pdf/Morten1.pdf" download title="Download slides (PDF), part 1" aria-label="Download slides (PDF), part 1"><i class="fa fa-file-pdf-o" aria-hidden="true"></i><span>1</span></a><a class="slides-btn" href="/alpec26-pdf/Morten2.pdf" download title="Download slides (PDF), part 2" aria-label="Download slides (PDF), part 2"><i class="fa fa-file-pdf-o" aria-hidden="true"></i><span>2</span></a></li>
       </ul>
     </div>
   </div>
@@ -199,7 +232,18 @@ menu:
       <div class="speaker-card-name"><a href="https://homepages.inf.ed.ac.uk/mkohlwei/">Markulf Kohlweiss</a></div>
       <div class="speaker-card-affil">University of Edinburgh — Scotland</div>
       <ul class="speaker-card-talks">
-        <li><span class="talk-title">UC What You See: Brave New World of Zero-Overhead Pseudo-code UC</span></li>
+        <li><span class="talk-title">UC What You See: Brave New World of Zero-Overhead Pseudo-code UC</span> <a class="slides-btn" href="/alpec26-pdf/Markulf.pdf" download title="Download slides (PDF)" aria-label="Download slides (PDF)"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="speaker-card">
+    <img src="/images/speakers/scott.png" alt="Scott Griffy">
+    <div class="speaker-card-body">
+      <div class="speaker-card-name"><a href="https://scottgriffy.com/">Scott Griffy</a></div>
+      <div class="speaker-card-affil">University of Edinburgh — Scotland</div>
+      <ul class="speaker-card-talks">
+        <li><span class="talk-title">Intro to Universal Composability</span> <a class="slides-btn" href="/alpec26-pdf/Scott.pdf" download title="Download slides (PDF)" aria-label="Download slides (PDF)"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></li>
       </ul>
     </div>
   </div>
@@ -410,7 +454,7 @@ In the first part of these lectures, we review and explain the connection betwee
     </div>
     <div class="schedule-row">
       <span class="schedule-time">10:00 – 11:00</span>
-      <span class="schedule-event">Markulf Kohlweiss</span>
+      <span class="schedule-event">Scott Griffy</span>
     </div>
     <div class="schedule-row break">
       <span class="schedule-time">11:00 – 11:30</span>
